@@ -1,0 +1,1498 @@
+{
+  "name": "raghupss",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "28261",
+        "model": "9474",
+        "stepping": "2",
+        "physical_id": "CPU0",
+        "model_name": "Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz",
+        "description": "Intel64 Family 6 Model 37 Stepping 2",
+        "mhz": "2400",
+        "cache_size": "512 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 104751689,
+        "kb_available": 6364696,
+        "kb_used": 98386993,
+        "percent_used": 93,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "D:": {
+        "kb_size": 104857595,
+        "kb_available": 76891271,
+        "kb_used": 27966324,
+        "percent_used": 26,
+        "mount": "D:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "E:": {
+        "kb_size": 104857595,
+        "kb_available": 80620507,
+        "kb_used": 24237088,
+        "percent_used": 23,
+        "mount": "E:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "F:": {
+        "kb_size": 185533984,
+        "kb_available": 102807674,
+        "kb_used": 82726310,
+        "percent_used": 44,
+        "mount": "F:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "G:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "G:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume1",
+        "build_number": "15063",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Pro",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "HOME-PC",
+        "current_time_zone": 330,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "685888",
+        "free_space_in_paging_files": "1833208",
+        "free_virtual_memory": "1740728",
+        "install_date": "20170801061641.000000+330",
+        "large_system_cache": null,
+        "last_boot_up_time": "20171014103722.488453+330",
+        "local_date_time": "20171014132950.389000+330",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition1",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 172,
+        "number_of_users": 4,
+        "operating_system_sku": 48,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Home",
+        "serial_number": "00330-80000-00000-AA180",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "2228224",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume1",
+        "system_directory": "C:\\WINDOWS\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "6076512",
+        "total_visible_memory_size": "3848288",
+        "version": "10.0.15063",
+        "windows_directory": "C:\\WINDOWS"
+      },
+      "name": "Microsoft Windows 10 Pro",
+      "release": "10.0.15063",
+      "version": "10.0.15063  Build 15063",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bootup_state": "Normal boot",
+        "caption": "HOME-PC",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": null,
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 330,
+        "daylight_in_effect": null,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "Home-PC",
+        "domain": "WORKGROUP",
+        "domain_role": 0,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": true,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Sony Corporation",
+        "model": "VPCEB1AGG",
+        "name": "HOME-PC",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "0000065986",
+          "FNC-EXTB",
+          "95V23DiafDwnsriath6nsoJUth7R9BLSxoDKFR9DwniTiatjwn",
+          "Reserved",
+          "6.0.3.1195"
+        ],
+        "part_of_domain": false,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "pc_system_type_ex": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Home",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT",
+          "Potential_Browser",
+          "Master_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "VAIO",
+        "system_sku_number": "N/A",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "3940646912",
+        "user_name": "Home-PC\\Home",
+        "wake_up_type": 6,
+        "workgroup": "WORKGROUP"
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "2228224kB",
+        "free": "1833208kB"
+      },
+      "total": "3848288kB",
+      "free": "685468kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x6": {
+          "configuration": {
+            "ip_address": [
+              "192.168.0.123",
+              "fe80::e8d7:7aeb:2d9e:5813"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000002] Intel(R) Centrino(R) Advanced-N 6200 AGN Driver",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.0.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) Centrino(R) Advanced-N 6200 AGN",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20171014145715.000000+330",
+            "dhcp_lease_obtained": "20171014125715.000000+330",
+            "dhcp_server": "192.168.0.1",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Home-PC",
+            "dns_server_search_order": [
+              "192.168.0.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 2,
+            "interface_index": 6,
+            "ip_connection_metric": 50,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:23:14:C5:B8:70",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "NETwNs64",
+            "setting_id": "{645095A0-1DC1-4447-AA1B-C664F4E25E22}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000002] Intel(R) Centrino(R) Advanced-N 6200 AGN Driver",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Centrino(R) Advanced-N 6200 AGN Driver",
+            "device_id": "2",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{645095A0-1DC1-4447-AA1B-C664F4E25E22}",
+            "index": 2,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 6,
+            "last_error_code": null,
+            "mac_address": "00:23:14:C5:B8:70",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Centrino(R) Advanced-N 6200 AGN",
+            "net_connection_id": "Wireless Network Connection",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_422C&SUBSYS_13018086&REV_35\\4&1EE949F9&0&00E0",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Centrino(R) Advanced-N 6200 AGN Driver",
+            "service_name": "NETwNs64",
+            "speed": "144000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "HOME-PC",
+            "time_of_last_reset": "20171014103722.488453+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.0.123": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.0.255",
+              "family": "inet"
+            },
+            "fe80::e8d7:7aeb:2d9e:5813": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:23:14:C5:B8:70": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.0.1": "18:a6:f7:7f:4e:0e",
+            "192.168.0.104": "00:24:be:ba:db:45",
+            "192.168.0.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "192.168.0.1",
+      "default_interface": "0x6"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "192.168.0.123",
+    "macaddress": "00:23:14:C5:B8:70",
+    "ip6address": "fe80::e8d7:7aeb:2d9e:5813",
+    "os": "windows",
+    "os_version": "10.0.15063",
+    "platform": "windows",
+    "platform_version": "10.0.15063",
+    "platform_family": "windows",
+    "uptime_seconds": 10350,
+    "uptime": "2 hours 52 minutes 30 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_144",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_144-b01"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) Client VM",
+          "build": "25.144-b01, mixed mode, sharing"
+        }
+      },
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "5.1.15063.674",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.15063.674",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "5.1.15063.674"
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "python": {
+        "version": "2.7.13",
+        "builddate": "Dec 17 2016, 20:42:59"
+      },
+      "ruby": {
+        "platform": "x64-mingw32",
+        "version": "2.4.2",
+        "release_date": "2017-09-14",
+        "target": "x86_64-w64-mingw32",
+        "target_cpu": "x64",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "x86_64-w64-mingw32",
+        "host_cpu": "x86_64",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "13.4.19",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.4.19-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "13.4.0",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0/gems/ohai-13.4.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "cloud": null,
+    "command": {
+
+    },
+    "hostname": "Home-PC",
+    "machinename": "HOME-PC",
+    "fqdn": "Home-PC",
+    "domain": null,
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1507968004.455966,
+    "packages": {
+      "Docker for Windows": {
+        "version": "17.06.2-ce-win27",
+        "publisher": "Docker Inc."
+      },
+      "Git version 2.12.2.2": {
+        "version": "2.12.2.2",
+        "publisher": "The Git Development Community",
+        "installdate": "20170409"
+      },
+      "HP LaserJet Professional M1130-M1210 MFP Series": {
+
+      },
+      "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)": {
+        "version": "10.0.50908",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150723"
+      },
+      "Microsoft Office Professional Plus 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Synaptics Pointing Device Driver": {
+        "version": "16.2.16.4",
+        "publisher": "Synaptics Incorporated"
+      },
+      "WinRAR 5.21 (64-bit)": {
+        "version": "5.21.0",
+        "publisher": "win.rar GmbH"
+      },
+      "Reliance Netconnect - Broadband+": {
+        "installdate": "20141001"
+      },
+      "Microsoft System CLR Types for SQL Server 2012 (x64)": {
+        "version": "11.1.3366.16",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.61000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170204"
+      },
+      "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150723"
+      },
+      "Windows Live MIME IFilter": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151109"
+      },
+      "Microsoft DVD App Installation for Microsoft.WindowsDVDPlayer_2019.6.13291.0_neutral_~_8wekyb3d8bbwe (x64)": {
+        "version": "1.0.0.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160217"
+      },
+      "Microsoft .NET Framework 4.5.2": {
+        "version": "4.5.51209",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150723"
+      },
+      "Java 8 Update 131 (64-bit)": {
+        "version": "8.0.1310.11",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170613"
+      },
+      "Microsoft Web Deploy 3.5": {
+        "version": "3.1237.1762",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Microsoft SQL Server 2012 Management Objects  (x64)": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft SQL Server System CLR Types (x64)": {
+        "version": "10.50.1600.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft SQL Server 2012 Transact-SQL ScriptDom ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Bonjour": {
+        "version": "3.1.0.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20150921"
+      },
+      "HP Deskjet 1050 J410 series Product Improvement Study": {
+        "version": "22.0.334.0",
+        "publisher": "Hewlett-Packard Co.",
+        "installdate": "20150324"
+      },
+      "Microsoft SQL Server 2012 Command Line Utilities ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170204"
+      },
+      "PuTTY release 0.69 (64-bit)": {
+        "version": "0.69.0.0",
+        "publisher": "Simon Tatham",
+        "installdate": "20170617"
+      },
+      "Java SE Development Kit 8 Update 121 (64-bit)": {
+        "version": "8.0.1210.13",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170402"
+      },
+      "Java SE Development Kit 8 Update 131 (64-bit)": {
+        "version": "8.0.1310.11",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170613"
+      },
+      "Microsoft SQL Server 2012 Express LocalDB ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Apple Application Support (64-bit)": {
+        "version": "5.4.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20170325"
+      },
+      "Microsoft SQL Server Compact 4.0 SP1 x64 ENU": {
+        "version": "4.0.8876.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23918": {
+        "version": "14.0.23918",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "IIS 8.0 Express": {
+        "version": "8.0.1557",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "iCloud": {
+        "version": "6.2.1.67",
+        "publisher": "Apple Inc.",
+        "installdate": "20170423"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Visual Studio 2012 x64 Redistributables": {
+        "version": "14.0.0.1",
+        "publisher": "AVG Technologies",
+        "installdate": "20170501"
+      },
+      "Security Update for Microsoft Office 2016 (KB3115135) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3213650) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3191924) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Skype for Business 2016 (KB4011159) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Visio 2016 (KB4011136) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB2920723) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB4011038) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115276) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Outlook 2016 (KB4011162) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920684) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB4011185) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Project 2016 (KB4011141) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Excel 2016 (KB4011166) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3141457) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3191928) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3191923) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011158) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011167) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB3178667) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011036) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft PowerPoint 2016 (KB4011164) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115081) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118262) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3141506) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920720) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2910954) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3114903) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011144) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118263) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneNote 2016 (KB4011092) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3191929) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115281) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920712) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011135) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920724) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Access 2016 (KB4011142) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118264) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3141509) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Publisher 2016 (KB3178696) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011102) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3191867) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920678) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneDrive for Business (KB3178707) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB4011139) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3178666) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Word 2016 (KB4011222) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Access MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft Excel MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Microsoft PowerPoint MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Microsoft Publisher MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170809"
+      },
+      "Microsoft Outlook MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171013"
+      },
+      "Microsoft Word MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Microsoft Office Proofing Tools 2016 - English": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170503"
+      },
+      "Outils de vérification linguistique 2016 de Microsoft Office - Français": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170503"
+      },
+      "Herramientas de corrección de Microsoft Office 2016: español": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170503"
+      },
+      "Microsoft Office Proofing (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft InfoPath MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft Office Shared MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Microsoft DCF MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft OneNote MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170916"
+      },
+      "Microsoft Groove MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170809"
+      },
+      "Microsoft Office 32-bit Components 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Security Update for Skype for Business 2016 (KB3115408) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Office Shared 32-bit MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171014"
+      },
+      "Microsoft Office OSM MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft Office OSM UX MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft Office Shared Setup Metadata MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft Access Setup Metadata MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151108"
+      },
+      "Microsoft Skype for Business MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171013"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Microsoft Application Error Reporting": {
+        "version": "12.0.6015.5000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "SharePoint Client Components": {
+        "version": "15.0.4481.1505",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161015"
+      },
+      "Chef Development Kit v2.3.4": {
+        "version": "2.3.4.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20171014"
+      },
+      "IIS Express Application Compatibility Database for x64": {
+
+      },
+      "Alps Pointing-device for VAIO": {
+        "publisher": "ALPS ELECTRIC CO., LTD."
+      },
+      "Microsoft SQL Server 2012 Data-Tier App Framework  (x64)": {
+        "version": "11.1.2902.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "HP Deskjet 1050 J410 series Basic Device Software": {
+        "version": "22.0.334.0",
+        "publisher": "Hewlett-Packard Co.",
+        "installdate": "20150324"
+      },
+      "Windows Live ID Sign-in Assistant": {
+        "version": "7.250.4311.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Microsoft SQL Server 2012 Native Client ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Apple Mobile Device Support": {
+        "version": "10.3.1.2",
+        "publisher": "Apple Inc.",
+        "installdate": "20170325"
+      },
+      "Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918": {
+        "version": "14.0.23918",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "HP LaserJet Professional M1210 MFP Series Fax Installer": {
+        "version": "1.1.0",
+        "publisher": "HP",
+        "installdate": "20151027"
+      },
+      "MSVCRT110_amd64": {
+        "version": "16.4.1109.0912",
+        "publisher": "Microsoft",
+        "installdate": "20150721"
+      },
+      "Microsoft Identity Extensions": {
+        "version": "2.0.1459.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "IIS Express Application Compatibility Database for x86": {
+
+      },
+      "Adobe Creative Cloud": {
+        "version": "4.0.1.188",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Adobe Flash Player 27 NPAPI": {
+        "version": "27.0.0.159",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Coupon Printer for Windows": {
+        "version": "5.0.0.0",
+        "publisher": "Coupons.com Incorporated"
+      },
+      "Dropbox": {
+        "version": "36.4.22",
+        "publisher": "Dropbox, Inc."
+      },
+      "Google Chrome": {
+        "version": "61.0.3163.100",
+        "publisher": "Google Inc.",
+        "installdate": "20170325"
+      },
+      "Kaspersky Secure Connection": {
+        "version": "17.0.0.611",
+        "publisher": "Kaspersky Lab",
+        "installdate": "20170725"
+      },
+      "Kaspersky Password Manager": {
+        "version": "8.0.6.538",
+        "publisher": "Kaspersky Lab",
+        "installdate": "20170705"
+      },
+      "Kaspersky Internet Security": {
+        "version": "17.0.0.611",
+        "publisher": "Kaspersky Lab",
+        "installdate": "20170725"
+      },
+      "JetBrains TeamCity 10.0.5": {
+        "version": "10.0.5 (build 42677)",
+        "publisher": "JetBrains s.r.o."
+      },
+      "JetBrains TeamCity Build Agent 10.0.5": {
+        "version": "10.0.5 (build 42677)",
+        "publisher": "JetBrains s.r.o."
+      },
+      "Microsoft Help Viewer 2.1": {
+        "version": "2.1.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Adobe Photoshop CC 2017": {
+        "version": "18.0.1",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Picasa 3": {
+        "version": "3.9",
+        "publisher": "Google, Inc."
+      },
+      "TeamViewer 12": {
+        "version": "12.0.78716",
+        "publisher": "TeamViewer"
+      },
+      "Windows Live Essentials": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Windows Live UX Platform": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Microsoft SQL Server 2012 T-SQL Language Service ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Apple Application Support (32-bit)": {
+        "version": "5.4.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20170325"
+      },
+      "Microsoft System CLR Types for SQL Server 2012": {
+        "version": "11.1.3366.16",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Photo Gallery": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Entity Framework Tools for Visual Studio 2013": {
+        "version": "12.0.20912.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Dropbox Update Helper": {
+        "version": "1.3.65.1",
+        "publisher": "Dropbox, Inc.",
+        "installdate": "20170608"
+      },
+      "Junk Mail filter update": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151109"
+      },
+      "Microsoft SQL Server Data Tools - enu (12.0.30919.1)": {
+        "version": "12.0.30919.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Windows Live Writer Resources": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151109"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Google Toolbar for Internet Explorer": {
+        "version": "7.5.8231.2252",
+        "publisher": "Google Inc."
+      },
+      "amuleC": {
+        "version": "1.0.1",
+        "publisher": "amuleC",
+        "installdate": "20161207"
+      },
+      "Microsoft .NET Framework 4.5.1 SDK": {
+        "version": "4.5.51641",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft SQL Server 2012 Data-Tier App Framework ": {
+        "version": "11.1.2902.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Windows Live Photo Common": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Java 8 Update 144": {
+        "version": "8.0.1440.1",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170801"
+      },
+      "Microsoft SQL Server 2012 Management Objects ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Prerequisites for SSDT ": {
+        "version": "11.1.3000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Movie Maker": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Skype™ 7.39": {
+        "version": "7.39.102",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20170809"
+      },
+      "Open XML SDK 2.5 for Microsoft Office": {
+        "version": "2.5.5631",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "NVIDIA PhysX": {
+        "version": "9.10.0513",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20150109"
+      },
+      "Microsoft ASP.NET MVC 4 Runtime": {
+        "version": "4.0.40804.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160706"
+      },
+      "Windows Live Communications Platform": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.144.1",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170801"
+      },
+      "Python 2.7.13": {
+        "version": "2.7.13150",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170716"
+      },
+      "Microsoft .NET Framework 4.5 SDK": {
+        "version": "4.5.50710",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Apple Software Update": {
+        "version": "2.3.0.177",
+        "publisher": "Apple Inc.",
+        "installdate": "20170325"
+      },
+      "Microsoft .NET Framework 4.5 Multi-Targeting Pack": {
+        "version": "4.5.50710",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "HP Deskjet 1050 J410 series Help": {
+        "version": "140.0.66.66",
+        "publisher": "Hewlett Packard",
+        "installdate": "20150324"
+      },
+      "WCF RIA Services V1.0 SP2": {
+        "version": "4.1.62812.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Google Update Helper": {
+        "version": "1.3.25.11",
+        "publisher": "Google Inc.",
+        "installdate": "20141116"
+      },
+      "Windows Live UX Platform Language Pack": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Windows Live Installer": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Microsoft SQL Server Data Tools Build Utilities - enu (12.0.30919.1)": {
+        "version": "12.0.30919.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170325"
+      },
+      "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack": {
+        "version": "4.5.50932",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Exchange Web Services Managed API 2.0": {
+        "version": "15.0.516.14",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2005 Redistributable": {
+        "version": "8.0.56336",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151110"
+      },
+      "Windows Live Writer": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151109"
+      },
+      "HP Update": {
+        "version": "5.002.005.003",
+        "publisher": "Hewlett-Packard",
+        "installdate": "20150324"
+      },
+      "Skype Click to Call": {
+        "version": "8.5.0.9167",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161102"
+      },
+      "MSVCRT": {
+        "version": "15.4.2862.0708",
+        "publisher": "Microsoft",
+        "installdate": "20150721"
+      },
+      "MSVCRT110": {
+        "version": "16.4.1108.0727",
+        "publisher": "Microsoft",
+        "installdate": "20150721"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610": {
+        "version": "11.0.60610.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Visual Studio 2012 x86 Redistributables": {
+        "version": "14.0.0.1",
+        "publisher": "AVG Technologies CZ, s.r.o.",
+        "installdate": "20170501"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160419"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160425"
+      },
+      "Microsoft SQL Server System CLR Types": {
+        "version": "10.50.1600.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Adobe Reader XI (11.0.21)": {
+        "version": "11.0.21",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20170811"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141220"
+      },
+      "Windows Live PIMT Platform": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Jenkins 2.46.1": {
+        "version": "0.2.46.1000",
+        "publisher": "Jenkins project",
+        "installdate": "20170409"
+      },
+      "Windows Live Mail": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151109"
+      },
+      "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170325"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141220"
+      },
+      "Network Recording Player": {
+        "version": "31.5.1.12",
+        "publisher": "Cisco WebEx LLC",
+        "installdate": "20170318"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Photo Common": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Windows Live SOXE": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Microsoft .NET Framework 4 Multi-Targeting Pack": {
+        "version": "4.0.30319",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Update for  (KB2504637)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "MSVCRT_amd64": {
+        "version": "15.4.2862.0708",
+        "publisher": "Microsoft",
+        "installdate": "20151109"
+      },
+      "Windows Live SOXE Definitions": {
+        "version": "16.4.3528.0331",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)": {
+        "version": "4.5.50932",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23918": {
+        "version": "14.0.23918.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "D3DX10": {
+        "version": "15.4.2368.0902",
+        "publisher": "Microsoft",
+        "installdate": "20150721"
+      },
+      "Microsoft Silverlight 5 SDK": {
+        "version": "5.0.61118.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151102"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215": {
+        "version": "14.0.24215.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft SQL Server 2005 Compact Edition [ENU]": {
+        "version": "3.1.0000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150721"
+      },
+      "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150723"
+      },
+      "Intel(R) Processor Graphics": {
+        "version": "8.15.10.2993",
+        "publisher": "Intel Corporation"
+      },
+      "Realtek High Definition Audio Driver": {
+        "version": "6.0.1.7535",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170202"
+      },
+      "Google Drive": {
+        "version": "2.34.6717.9565",
+        "publisher": "Google, Inc.",
+        "installdate": "20170921"
+      },
+      "Google Talk Plugin": {
+        "version": "5.41.3.0",
+        "publisher": "Google",
+        "installdate": "20160128"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "India Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
