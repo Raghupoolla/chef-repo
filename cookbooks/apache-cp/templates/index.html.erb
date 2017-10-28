@@ -1,0 +1,6 @@
+<html>
+ <body>
+  <h1> Hello, Chef Practitioners! I am from <%= node["fqdn"] %>! </h1>
+  <p> This server  has <%=node["memory"]["total"].to_i/1024 %> </p>
+ </body>
+</html>
